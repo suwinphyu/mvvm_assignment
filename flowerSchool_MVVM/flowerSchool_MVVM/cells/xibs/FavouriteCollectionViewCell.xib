@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="FavouriteCollectionViewCell" customModule="flowerSchool_MVVM" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="200" height="213"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="200" height="213"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="sBX-DI-hPB" customClass="CardView" customModule="flowerSchool_MVVM" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="0.0" width="200" height="213"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="flower" translatesAutoresizingMaskIntoConstraints="NO" id="80y-Yx-gzA">
+                                <rect key="frame" x="15" y="15" width="170" height="183"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="0.81191138698630128" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="80y-Yx-gzA" firstAttribute="leading" secondItem="sBX-DI-hPB" secondAttribute="leading" constant="15" id="bg7-cj-F96"/>
+                            <constraint firstAttribute="trailing" secondItem="80y-Yx-gzA" secondAttribute="trailing" constant="15" id="gVn-j9-gVu"/>
+                            <constraint firstAttribute="bottom" secondItem="80y-Yx-gzA" secondAttribute="bottom" constant="15" id="waO-us-Qsc"/>
+                            <constraint firstItem="80y-Yx-gzA" firstAttribute="top" secondItem="sBX-DI-hPB" secondAttribute="top" constant="15" id="zQH-rq-3Rl"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOffsetWidth">
+                                <integer key="value" value="0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOffsetHeight">
+                                <integer key="value" value="0"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="sBX-DI-hPB" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="B4W-Ca-349"/>
+                <constraint firstAttribute="trailing" secondItem="sBX-DI-hPB" secondAttribute="trailing" id="IKl-Zb-Lkx"/>
+                <constraint firstAttribute="bottom" secondItem="sBX-DI-hPB" secondAttribute="bottom" id="VON-Ko-6GU"/>
+                <constraint firstItem="sBX-DI-hPB" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="rwE-HP-Nj7"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="200" height="213"/>
+            <connections>
+                <outlet property="imgViewFavouriteImage" destination="80y-Yx-gzA" id="Vir-bN-OdY"/>
+            </connections>
+            <point key="canvasLocation" x="249.27536231884059" y="93.415178571428569"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="flower" width="1700" height="1700"/>
+    </resources>
+</document>
