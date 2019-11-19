@@ -1,6 +1,8 @@
 # mvvm_assignment
 flower school mvvm assignment(Rxswift)
 
+![Screenshot](https://github.com/suwinphyu/mvvm_assignment/blob/master/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?)
+
 ![ScreenShot]({https://github.com/suwinphyu/mvvm_assignment/blob/master/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?})
 ![Alt text](/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?raw=true "Login")
 
