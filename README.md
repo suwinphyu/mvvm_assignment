@@ -1,7 +1,7 @@
 # mvvm_assignment
 flower school mvvm assignment(Rxswift)
 
-<img src="https://github.com/suwinphyu/mvvm_assignment/blob/master/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?" width="100" height="100"/>
+<img src="https://github.com/suwinphyu/mvvm_assignment/master/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?" width="100" height="100"/>
 
 ![Screenshot](https://github.com/suwinphyu/mvvm_assignment/blob/master/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?)
 
