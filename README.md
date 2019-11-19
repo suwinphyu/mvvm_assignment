@@ -1,17 +1,19 @@
 # mvvm_assignment
 flower school mvvm assignment(Rxswift)
 
+<h3>Login</h3>
 <img src="Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png" width="300" height="650"/>
 
-![Screenshot](https://github.com/suwinphyu/mvvm_assignment/blob/master/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?)
+<h3>Slider</h3>
+<img src="Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 23.43.53.png" width="300" height="650"/>
 
-![ScreenShot]({https://github.com/suwinphyu/mvvm_assignment/blob/master/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?})
-![Alt text](/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.38.png?raw=true "Login")
+<h3>Home</h3>
+<img src="Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.52.png" width="300" height="650"/>
 
-![Alt text](/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 23.43.53.png?raw=true "Slider")
+<h3>Details</h3>
+<img src="Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 23.35.01.png" width="300" height="650"/>
 
-![Alt text](/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 22.11.52.png?raw=true "Home")
+<h3>Favourite</h3>
+<img src="Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 23.43.42.png" width="300" height="650"/>
 
-![Alt text](/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 23.35.01.png?raw=true "Details")
 
-![Alt text](/mvvm_assignment/Simulator Screen Shot - iPhone Xʀ - 2019-11-17 at 23.43.42.png?raw=true "Favourite")
